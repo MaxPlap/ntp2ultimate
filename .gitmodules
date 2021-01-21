@@ -1,0 +1,3 @@
+[submodule "ultimate-dos-lib"]
+	path = ultimate-dos-lib
+	url = git@github.com:MaxPlap/ultimateii-dos-lib.git
